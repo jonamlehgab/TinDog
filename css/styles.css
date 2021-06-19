@@ -153,11 +153,8 @@ p {
   text-align: center;
 }
 
-.footer{
- text-decoration:none;
-  color:inherit;
-}
-.footer:hover{
+
+.footer, .footer:hover, .foooter:focus, .footer:active{
  text-decoration:none;
   color:inherit;
   cursor:pointer;
