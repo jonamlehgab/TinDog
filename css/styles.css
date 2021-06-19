@@ -157,6 +157,11 @@ p {
  text-decoration:none;
   color:inherit;
 }
+.footer:hover{
+ text-decoration:none;
+  color:inherit;
+  cursor:pointer;
+}
 
 .social-icon {
   margin: 20px 10px;
