@@ -153,6 +153,11 @@ p {
   text-align: center;
 }
 
+.footer{
+ text-decoration:none;
+  color:inherit;
+}
+
 .social-icon {
   margin: 20px 10px;
 }
